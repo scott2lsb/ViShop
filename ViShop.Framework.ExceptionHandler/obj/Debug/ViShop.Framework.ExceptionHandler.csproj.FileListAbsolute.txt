@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Framework.ExceptionHandler\bin\Debug\ViShop.Framework.ExceptionHandler.dll
+D:\Project\ViShop\ViShop.Framework.ExceptionHandler\bin\Debug\ViShop.Framework.ExceptionHandler.pdb
+D:\Project\ViShop\ViShop.Framework.ExceptionHandler\obj\Debug\ViShop.Framework.ExceptionHandler.dll
+D:\Project\ViShop\ViShop.Framework.ExceptionHandler\obj\Debug\ViShop.Framework.ExceptionHandler.pdb

@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Framework.Notification\bin\Debug\ViShop.Framework.Notification.dll
+D:\Project\ViShop\ViShop.Framework.Notification\bin\Debug\ViShop.Framework.Notification.pdb
+D:\Project\ViShop\ViShop.Framework.Notification\obj\Debug\ViShop.Framework.Notification.dll
+D:\Project\ViShop\ViShop.Framework.Notification\obj\Debug\ViShop.Framework.Notification.pdb

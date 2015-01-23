@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Framework.Utility\bin\Debug\ViShop.Framework.Utility.dll
+D:\Project\ViShop\ViShop.Framework.Utility\bin\Debug\ViShop.Framework.Utility.pdb
+D:\Project\ViShop\ViShop.Framework.Utility\obj\Debug\ViShop.Framework.Utility.dll
+D:\Project\ViShop\ViShop.Framework.Utility\obj\Debug\ViShop.Framework.Utility.pdb

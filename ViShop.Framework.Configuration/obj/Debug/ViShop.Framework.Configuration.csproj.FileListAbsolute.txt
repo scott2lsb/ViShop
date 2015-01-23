@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Framework.Configuration\bin\Debug\ViShop.Framework.Configuration.dll
+D:\Project\ViShop\ViShop.Framework.Configuration\bin\Debug\ViShop.Framework.Configuration.pdb
+D:\Project\ViShop\ViShop.Framework.Configuration\obj\Debug\ViShop.Framework.Configuration.dll
+D:\Project\ViShop\ViShop.Framework.Configuration\obj\Debug\ViShop.Framework.Configuration.pdb

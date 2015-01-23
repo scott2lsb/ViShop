@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Application.Workflow\bin\Debug\ViShop.Application.Workflow.dll
+D:\Project\ViShop\ViShop.Application.Workflow\bin\Debug\ViShop.Application.Workflow.pdb
+D:\Project\ViShop\ViShop.Application.Workflow\obj\Debug\ViShop.Application.Workflow.dll
+D:\Project\ViShop\ViShop.Application.Workflow\obj\Debug\ViShop.Application.Workflow.pdb

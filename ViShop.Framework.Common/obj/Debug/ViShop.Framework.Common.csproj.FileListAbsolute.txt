@@ -1,0 +1,5 @@
+D:\Project\ViShop\ViShop.Framework.Common\bin\Debug\ViShop.Framework.Common.dll
+D:\Project\ViShop\ViShop.Framework.Common\bin\Debug\ViShop.Framework.Common.pdb
+D:\Project\ViShop\ViShop.Framework.Common\obj\Debug\ViShop.Framework.Common.dll
+D:\Project\ViShop\ViShop.Framework.Common\obj\Debug\ViShop.Framework.Common.pdb
+D:\Project\ViShop\ViShop.Framework.Common\obj\Debug\ViShop.Framework.Common.csprojResolveAssemblyReference.cache

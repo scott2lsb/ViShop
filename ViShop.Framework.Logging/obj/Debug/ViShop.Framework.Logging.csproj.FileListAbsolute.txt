@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Framework.Logging\bin\Debug\ViShop.Framework.Logging.dll
+D:\Project\ViShop\ViShop.Framework.Logging\bin\Debug\ViShop.Framework.Logging.pdb
+D:\Project\ViShop\ViShop.Framework.Logging\obj\Debug\ViShop.Framework.Logging.dll
+D:\Project\ViShop\ViShop.Framework.Logging\obj\Debug\ViShop.Framework.Logging.pdb

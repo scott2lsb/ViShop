@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Domain.Specifications\bin\Debug\ViShop.Domain.Specifications.dll
+D:\Project\ViShop\ViShop.Domain.Specifications\bin\Debug\ViShop.Domain.Specifications.pdb
+D:\Project\ViShop\ViShop.Domain.Specifications\obj\Debug\ViShop.Domain.Specifications.dll
+D:\Project\ViShop\ViShop.Domain.Specifications\obj\Debug\ViShop.Domain.Specifications.pdb

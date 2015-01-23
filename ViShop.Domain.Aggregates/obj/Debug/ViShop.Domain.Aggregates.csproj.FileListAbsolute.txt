@@ -1,0 +1,5 @@
+D:\Project\ViShop\ViShop.Domain.Aggregates\bin\Debug\ViShop.Domain.Aggregates.dll
+D:\Project\ViShop\ViShop.Domain.Aggregates\bin\Debug\ViShop.Domain.Aggregates.pdb
+D:\Project\ViShop\ViShop.Domain.Aggregates\obj\Debug\ViShop.Domain.Aggregates.dll
+D:\Project\ViShop\ViShop.Domain.Aggregates\obj\Debug\ViShop.Domain.Aggregates.pdb
+D:\Project\ViShop\ViShop.Domain.Aggregates\obj\Debug\ViShop.Domain.Aggregates.csprojResolveAssemblyReference.cache

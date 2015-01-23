@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Infrastructure.Delivery\bin\Debug\ViShop.Infrastructure.Delivery.dll
+D:\Project\ViShop\ViShop.Infrastructure.Delivery\bin\Debug\ViShop.Infrastructure.Delivery.pdb
+D:\Project\ViShop\ViShop.Infrastructure.Delivery\obj\Debug\ViShop.Infrastructure.Delivery.dll
+D:\Project\ViShop\ViShop.Infrastructure.Delivery\obj\Debug\ViShop.Infrastructure.Delivery.pdb

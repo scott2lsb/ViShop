@@ -1,0 +1,6 @@
+D:\Project\ViShop\ViShop.Distributed.RemotingService\bin\ViShop.Distributed.RemotingService.dll.config
+D:\Project\ViShop\ViShop.Distributed.RemotingService\bin\ViShop.Distributed.RemotingService.dll
+D:\Project\ViShop\ViShop.Distributed.RemotingService\bin\ViShop.Distributed.RemotingService.pdb
+D:\Project\ViShop\ViShop.Distributed.RemotingService\obj\Debug\ViShop.Distributed.RemotingService.dll
+D:\Project\ViShop\ViShop.Distributed.RemotingService\obj\Debug\ViShop.Distributed.RemotingService.pdb
+D:\Project\ViShop\ViShop.Distributed.RemotingService\obj\Debug\ViShop.Distributed.RemotingService.csprojResolveAssemblyReference.cache

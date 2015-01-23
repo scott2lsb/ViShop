@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Infrastructure.DAO\bin\Debug\ViShop.Infrastructure.DAO.dll
+D:\Project\ViShop\ViShop.Infrastructure.DAO\bin\Debug\ViShop.Infrastructure.DAO.pdb
+D:\Project\ViShop\ViShop.Infrastructure.DAO\obj\Debug\ViShop.Infrastructure.DAO.dll
+D:\Project\ViShop\ViShop.Infrastructure.DAO\obj\Debug\ViShop.Infrastructure.DAO.pdb

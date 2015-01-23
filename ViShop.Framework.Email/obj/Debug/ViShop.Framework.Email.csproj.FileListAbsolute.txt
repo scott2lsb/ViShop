@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Framework.Email\bin\Debug\ViShop.Framework.Email.dll
+D:\Project\ViShop\ViShop.Framework.Email\bin\Debug\ViShop.Framework.Email.pdb
+D:\Project\ViShop\ViShop.Framework.Email\obj\Debug\ViShop.Framework.Email.dll
+D:\Project\ViShop\ViShop.Framework.Email\obj\Debug\ViShop.Framework.Email.pdb

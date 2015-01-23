@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Application.TaskJob\bin\Debug\ViShop.Application.TaskJob.dll
+D:\Project\ViShop\ViShop.Application.TaskJob\bin\Debug\ViShop.Application.TaskJob.pdb
+D:\Project\ViShop\ViShop.Application.TaskJob\obj\Debug\ViShop.Application.TaskJob.dll
+D:\Project\ViShop\ViShop.Application.TaskJob\obj\Debug\ViShop.Application.TaskJob.pdb

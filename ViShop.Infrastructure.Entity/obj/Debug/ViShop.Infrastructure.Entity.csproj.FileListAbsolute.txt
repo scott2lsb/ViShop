@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Infrastructure.Entity\bin\Debug\ViShop.Infrastructure.Entity.dll
+D:\Project\ViShop\ViShop.Infrastructure.Entity\bin\Debug\ViShop.Infrastructure.Entity.pdb
+D:\Project\ViShop\ViShop.Infrastructure.Entity\obj\Debug\ViShop.Infrastructure.Entity.dll
+D:\Project\ViShop\ViShop.Infrastructure.Entity\obj\Debug\ViShop.Infrastructure.Entity.pdb

@@ -1,0 +1,6 @@
+D:\Project\ViShop\ViShop.WinService\bin\Debug\ViShop.WinService.exe.config
+D:\Project\ViShop\ViShop.WinService\bin\Debug\ViShop.WinService.exe
+D:\Project\ViShop\ViShop.WinService\bin\Debug\ViShop.WinService.pdb
+D:\Project\ViShop\ViShop.WinService\obj\Debug\ViShop.WinService.csprojResolveAssemblyReference.cache
+D:\Project\ViShop\ViShop.WinService\obj\Debug\ViShop.WinService.exe
+D:\Project\ViShop\ViShop.WinService\obj\Debug\ViShop.WinService.pdb

@@ -1,0 +1,5 @@
+D:\Project\ViShop\ViShp.Distributed.EnterpriseService\bin\ViShp.Distributed.EnterpriseService.dll.config
+D:\Project\ViShop\ViShp.Distributed.EnterpriseService\bin\ViShp.Distributed.EnterpriseService.dll
+D:\Project\ViShop\ViShp.Distributed.EnterpriseService\bin\ViShp.Distributed.EnterpriseService.pdb
+D:\Project\ViShop\ViShp.Distributed.EnterpriseService\obj\Debug\ViShp.Distributed.EnterpriseService.dll
+D:\Project\ViShop\ViShp.Distributed.EnterpriseService\obj\Debug\ViShp.Distributed.EnterpriseService.pdb

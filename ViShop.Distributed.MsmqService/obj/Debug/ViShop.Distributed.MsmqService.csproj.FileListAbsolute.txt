@@ -1,0 +1,6 @@
+D:\Project\ViShop\ViShop.Distributed.MsmqService\bin\ViShop.Distributed.MsmqService.dll.config
+D:\Project\ViShop\ViShop.Distributed.MsmqService\bin\ViShop.Distributed.MsmqService.dll
+D:\Project\ViShop\ViShop.Distributed.MsmqService\bin\ViShop.Distributed.MsmqService.pdb
+D:\Project\ViShop\ViShop.Distributed.MsmqService\obj\Debug\ViShop.Distributed.MsmqService.csprojResolveAssemblyReference.cache
+D:\Project\ViShop\ViShop.Distributed.MsmqService\obj\Debug\ViShop.Distributed.MsmqService.dll
+D:\Project\ViShop\ViShop.Distributed.MsmqService\obj\Debug\ViShop.Distributed.MsmqService.pdb

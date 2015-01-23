@@ -1,0 +1,6 @@
+D:\Project\ViShop\ViShop.Framework.Caching\bin\Debug\ViShop.Framework.Caching.dll
+D:\Project\ViShop\ViShop.Framework.Caching\bin\Debug\ViShop.Framework.Caching.pdb
+D:\Project\ViShop\ViShop.Framework.Caching\obj\Debug\ViShop.Framework.Caching.dll
+D:\Project\ViShop\ViShop.Framework.Caching\obj\Debug\ViShop.Framework.Caching.pdb
+D:\Project\ViShop\ViShop.Framework.Caching\obj\Debug\ViShop.Framework.Caching.csprojResolveAssemblyReference.cache
+D:\Project\ViShop\ViShop.Framework.Caching\bin\Debug\Enyim.Caching.dll

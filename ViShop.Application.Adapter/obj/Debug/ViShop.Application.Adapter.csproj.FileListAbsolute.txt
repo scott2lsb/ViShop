@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Application.Adapter\bin\Debug\ViShop.Application.Adapter.dll
+D:\Project\ViShop\ViShop.Application.Adapter\bin\Debug\ViShop.Application.Adapter.pdb
+D:\Project\ViShop\ViShop.Application.Adapter\obj\Debug\ViShop.Application.Adapter.dll
+D:\Project\ViShop\ViShop.Application.Adapter\obj\Debug\ViShop.Application.Adapter.pdb

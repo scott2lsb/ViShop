@@ -1,0 +1,6 @@
+D:\Project\ViShop\ViShop.Distributed.WcfService\bin\ViShop.Distributed.WcfService.dll.config
+D:\Project\ViShop\ViShop.Distributed.WcfService\bin\ViShop.Distributed.WcfService.dll
+D:\Project\ViShop\ViShop.Distributed.WcfService\bin\ViShop.Distributed.WcfService.pdb
+D:\Project\ViShop\ViShop.Distributed.WcfService\obj\Debug\ViShop.Distributed.WcfService.csprojResolveAssemblyReference.cache
+D:\Project\ViShop\ViShop.Distributed.WcfService\obj\Debug\ViShop.Distributed.WcfService.dll
+D:\Project\ViShop\ViShop.Distributed.WcfService\obj\Debug\ViShop.Distributed.WcfService.pdb

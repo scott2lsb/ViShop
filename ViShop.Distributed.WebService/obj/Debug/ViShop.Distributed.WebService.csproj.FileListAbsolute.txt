@@ -1,0 +1,6 @@
+D:\Project\ViShop\ViShop.Distributed.WebService\bin\ViShop.Distributed.WebService.dll.config
+D:\Project\ViShop\ViShop.Distributed.WebService\bin\ViShop.Distributed.WebService.dll
+D:\Project\ViShop\ViShop.Distributed.WebService\bin\ViShop.Distributed.WebService.pdb
+D:\Project\ViShop\ViShop.Distributed.WebService\obj\Debug\ViShop.Distributed.WebService.csprojResolveAssemblyReference.cache
+D:\Project\ViShop\ViShop.Distributed.WebService\obj\Debug\ViShop.Distributed.WebService.dll
+D:\Project\ViShop\ViShop.Distributed.WebService\obj\Debug\ViShop.Distributed.WebService.pdb

@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Infrastructure.Payment\bin\Debug\ViShop.Infrastructure.Payment.dll
+D:\Project\ViShop\ViShop.Infrastructure.Payment\bin\Debug\ViShop.Infrastructure.Payment.pdb
+D:\Project\ViShop\ViShop.Infrastructure.Payment\obj\Debug\ViShop.Infrastructure.Payment.dll
+D:\Project\ViShop\ViShop.Infrastructure.Payment\obj\Debug\ViShop.Infrastructure.Payment.pdb

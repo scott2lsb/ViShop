@@ -1,0 +1,4 @@
+D:\Project\ViShop\ViShop.Application.DTO\bin\Debug\ViShop.Application.DTO.dll
+D:\Project\ViShop\ViShop.Application.DTO\bin\Debug\ViShop.Application.DTO.pdb
+D:\Project\ViShop\ViShop.Application.DTO\obj\Debug\ViShop.Application.DTO.dll
+D:\Project\ViShop\ViShop.Application.DTO\obj\Debug\ViShop.Application.DTO.pdb

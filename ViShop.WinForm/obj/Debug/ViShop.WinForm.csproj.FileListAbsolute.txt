@@ -1,0 +1,8 @@
+D:\Project\ViShop\ViShop.WinForm\bin\Debug\ViShop.WinForm.exe.config
+D:\Project\ViShop\ViShop.WinForm\bin\Debug\ViShop.WinForm.exe
+D:\Project\ViShop\ViShop.WinForm\bin\Debug\ViShop.WinForm.pdb
+D:\Project\ViShop\ViShop.WinForm\obj\Debug\ViShop.WinForm.csprojResolveAssemblyReference.cache
+D:\Project\ViShop\ViShop.WinForm\obj\Debug\ViShop.WinForm.Properties.Resources.resources
+D:\Project\ViShop\ViShop.WinForm\obj\Debug\ViShop.WinForm.csproj.GenerateResource.Cache
+D:\Project\ViShop\ViShop.WinForm\obj\Debug\ViShop.WinForm.exe
+D:\Project\ViShop\ViShop.WinForm\obj\Debug\ViShop.WinForm.pdb
